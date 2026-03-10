@@ -1,0 +1,26 @@
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # Daily at 6:30 AM IST
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update last-updated timestamp
+        run: |
+          DATE=$(date "+%B %d, %Y")
+          echo "Last auto-updated: $DATE" > .last-updated
+          cat .last-updated
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "SagarBot"
+          git config --global user.email "action@github.com"
+          git add .
+          git diff --quiet || git commit -m "🤖 Auto-update profile — $(date +%Y-%m-%d)"
+          git push
