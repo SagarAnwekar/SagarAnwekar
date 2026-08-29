@@ -1,139 +1,68 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Sagar+Anwekar;MBA+Business+Analytics+%40+DIMR+Pune;Data+Analytics+%7C+AI+%7C+ML+Explorer;Building+Data-Driven+Business+Solutions" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Business%20Intelligence-%230d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/Analytics%20Engineering-%230d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Applied%20AI-%230d1117?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 <h1 align="center">Sagar Anwekar</h1>
-<h3 align="center">MBA Business Analytics • DIMR Pune (Prime MBA) • Semester 1</h3>
+<p align="center"><strong>MBA Business Analytics · Pune, India · Building decision systems with data, BI, and AI</strong></p>
 
 <p align="center">
-  <a href="https://github.com/SagarAnwekar"><img src="https://img.shields.io/github/followers/SagarAnwekar?label=Followers&style=social" /></a>
-  <img src="https://komarev.com/ghpvc/?username=SagarAnwekar&color=00d4ff&style=flat-square&label=Profile+Views" />
+  <a href="https://github.com/SagarAnwekar">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/sagaranwekar">LinkedIn</a>
 </p>
 
 ---
 
-## 🎯 About Me
+## What I build
 
-```python
-sagar = {
-    "education"  : "MBA Business Analytics — DIMR Pune, Prime MBA (2025–27)",
-    "background" : "BBA — BAMU University | 7.6 CGPA",
-    "location"   : "Pune, Maharashtra, India 🇮🇳",
-    "focus"      : ["Data Analytics", "Business Intelligence", "AI/ML"],
-    "project"    : "Customer Buying Behaviour & Demand Forecasting — Mauli Collection",
-    "learning"   : ["Python", "SQL", "Excel Advanced", "Power BI", "Machine Learning"],
-    "goal"       : "₹10–14 LPA Analytics Role by 2027 🎯"
-}
-```
+I work at the intersection of **business analysis, business intelligence, analytics engineering, and applied AI**.
 
----
+My portfolio is intentionally organized as one progression:
 
-## 🔥 Featured Projects
+**Business Intelligence → Analytics Engineering → AI Solutions → Applied AI**
 
-| # | Project | Description | Tools | Status |
-|---|---------|-------------|-------|--------|
-| 1 | 🛍️ [Mauli Collection Analysis](https://github.com/SagarAnwekar/analytics-projects) | Customer Buying Behaviour & Demand Forecasting for fashion retail | Excel, Python, Statistics | 🟢 Active |
-| 2 | 🤖 [AI Experiments](https://github.com/SagarAnwekar/ai-experiments) | ML models, prompt engineering, AI tool exploration | Python, OpenAI API | 🟡 In Progress |
-| 3 | 📚 [MBA Learning Log](https://github.com/SagarAnwekar/learning-log) | Daily documented MBA learning journey | Markdown, GitHub Actions | 🟢 Active |
-| 4 | 🌐 [Portfolio Site](https://github.com/SagarAnwekar/portfolio) | Auto-generated GitHub Pages portfolio | HTML, CSS, GitHub Pages | 🔵 Live |
-| 5 | ⚙️ [Automation Scripts](https://github.com/SagarAnwekar/automation-scripts) | GitHub automation engine — MCP + Actions | Python, YAML, MCP | 🟢 Active |
+I focus on turning business questions into measurable, documented, testable systems.
 
----
+## Featured work
 
-## 🛠️ Skills & Technologies
+| Track | Repository | Evidence |
+|---|---|---|
+| 📊 BI + AI | [Enterprise BI Copilot](https://github.com/SagarAnwekar/enterprise-bi-copilot) | FastAPI, SQL, PostgreSQL, RAG, agent/tool boundaries, evaluation plan |
+| 🧪 Data Quality | [AI Data Quality Agent](https://github.com/SagarAnwekar/ai-data-quality-agent) | Python validation, anomaly detection, grounded explanations, CI |
+| ⚙️ Analytics Engineering | [Executive Reporting Automation](https://github.com/SagarAnwekar/executive-reporting-automation) | ingestion, quality checks, transforms, warehouse boundary, reporting |
+| 🛍️ Real business case | [Mauli Collection evidence](https://github.com/SagarAnwekar/enterprise-bi-copilot/tree/main/mauli-collection) | customer behavior + demand forecasting field project |
+| 🌐 Portfolio | [Portfolio site](https://github.com/SagarAnwekar/portfolio) | GitHub Pages hub and project navigation |
 
-**📊 Data Analytics**
+## Core skills
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Statistics](https://img.shields.io/badge/Statistics-FF6B6B?style=for-the-badge&logo=r&logoColor=white)
+**Analytics:** SQL · Excel · Power BI · DAX · Power Query · data modeling · forecasting · KPI design
 
-**🤖 AI & Machine Learning**
+**Engineering:** Python · FastAPI · PostgreSQL · REST APIs · Docker · GitHub Actions · testing
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+**AI systems:** LLM application patterns · RAG · agent orchestration · MCP tool boundaries · evaluation thinking
 
-**🛠️ Tools & Platforms**
+## How I work
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+1. Define the business decision.
+2. Identify the data and metric definitions.
+3. Build a reproducible analytical path.
+4. Add validation, tests, and documentation.
+5. Expose only the capabilities that need to be exposed.
+6. Measure the result and document trade-offs.
 
----
+## Current focus
 
-## 📊 GitHub Stats
+- production-quality BI and analytics projects
+- Python + SQL engineering depth
+- agentic AI patterns for business workflows
+- data quality, governance, and evaluation
+- stronger open-source engineering habits
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SagarAnwekar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarAnwekar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
-</p>
+## Repository standards
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SagarAnwekar&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
+The featured repositories use explicit milestones, semantic commits, tests, CI, architecture documentation, security guidance, and reproducible local setup. Unfinished experiments are kept separate from hiring-facing work.
 
----
+## Contact
 
-## 📚 Currently Learning
-
-```
-📖 Economic Analysis for Business Decisions  ████████░░  80%
-🤖 AI & Machine Learning Fundamentals        ██████░░░░  60%
-🐍 Python for Data Analytics                 ████████░░  80%
-📊 Excel Advanced (Dashboards + VBA)         ███████░░░  70%
-🗄️  SQL for Business Intelligence            █████░░░░░  50%
-📱 Power BI Dashboards                       ████░░░░░░  40%
-```
-
----
-
-## 🎯 2025–2027 Roadmap
-
-- [x] 🎓 Start MBA in Business Analytics at DIMR Pune
-- [x] 🚀 Build Elite GitHub Profile with MCP Automation
-- [x] 📁 Create 5-repo professional GitHub ecosystem
-- [ ] 📊 Complete Mauli Collection Demand Forecasting Project
-- [ ] 🐍 Complete Python for Data Analytics (Coursera)
-- [ ] 🤖 Complete Google Data Analytics Certificate
-- [ ] 📈 Build 5 portfolio-ready analytics projects
-- [ ] 💼 Land Data Analytics Internship (2026)
-- [ ] 🎯 Achieve ₹10–14 LPA Analytics Role (2027)
-
----
-
-## 🏆 Academic Achievements
-
-| Exam | Score | Institution |
-|------|-------|-------------|
-| 10th Standard | 87.40% | Maharashtra Board |
-| 12th Standard | 83.83% | Maharashtra Board |
-| BBA Degree | 7.6 CGPA | BAMU University |
-| MBA (Current) | Semester 1 | DIMR Pune — Prime MBA |
-
----
-
-## 📬 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/SagarAnwekar">
-    <img src="https://img.shields.io/badge/GitHub-SagarAnwekar-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sagar-anwekar-">
-    <img src="https://img.shields.io/badge/LinkedIn-Sagar_Anwekar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://sagaranwekar.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Live-00d4ff?style=for-the-badge&logo=github-pages&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <em>⚡ This profile is automatically maintained using GitHub Actions + MCP Automation</em><br/>
-  <em>🤖 Built with Claude AI + Model Context Protocol</em>
-</p>
+For analytics, BI, data, and applied AI opportunities, connect through [LinkedIn](https://www.linkedin.com/in/sagaranwekar) or GitHub.
