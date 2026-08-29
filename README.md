@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Sagar Anwekar</h1>
-<p align="center"><strong>MBA Business Analytics · Pune, India · Building decision systems with data, BI, and AI</strong></p>
+<p align="center"><strong>Microsoft Certified: Power BI Data Analyst Associate (PL-300) · Business Intelligence & Analytics Engineering · SQL · Power BI · DAX · Data Modeling · Python · AI-Enabled Analytics</strong></p>
 
 <p align="center">
   <a href="https://github.com/SagarAnwekar">GitHub</a> ·
@@ -14,13 +14,9 @@
 
 ## What I build
 
-I work at the intersection of **business analysis, business intelligence, analytics engineering, and applied AI**.
+I build business intelligence and analytics systems that connect **business questions → data → analysis → decision-making**.
 
-My portfolio is organized around a practical progression:
-
-**Business Intelligence → Analytics Engineering → AI-enabled Analytics**
-
-I focus on turning business questions into measurable, documented, testable systems.
+My work combines **SQL, Power BI, data modeling, Python, analytics engineering, and AI-enabled workflows** to create reproducible, documented, and testable business solutions.
 
 ## Featured work
 
@@ -28,7 +24,7 @@ I focus on turning business questions into measurable, documented, testable syst
 |---|---|---|
 | 📊 BI + AI | [Enterprise BI Copilot](https://github.com/SagarAnwekar/enterprise-bi-copilot) | FastAPI, SQL, PostgreSQL, RAG, agent/tool boundaries, evaluation plan |
 | 🧪 Data Quality | [AI Data Quality Agent](https://github.com/SagarAnwekar/ai-data-quality-agent) | Python validation, anomaly detection, grounded explanations, CI |
-| ⚙️ Analytics Engineering | [Executive Reporting Automation](https://github.com/SagarAnwekar/executive-reporting-automation) | ingestion, quality checks, transforms, warehouse boundary, reporting |
+| ⚙️ Analytics Engineering | [Executive Reporting Automation](https://github.com/SagarAnwekar/executive-reporting-automation) | ingestion, quality checks, transformations, warehouse boundary, reporting |
 | 🌐 Portfolio | [Portfolio site](https://github.com/SagarAnwekar/portfolio) | GitHub Pages hub and project navigation |
 
 ## Core skills
@@ -52,9 +48,9 @@ I focus on turning business questions into measurable, documented, testable syst
 
 - production-minded BI and analytics systems
 - Python + SQL engineering depth
-- agentic AI patterns for business workflows
+- analytics engineering and governed data workflows
+- AI-enabled business workflows
 - data quality, governance, and evaluation
-- stronger open-source engineering habits
 
 ## Repository standards
 
