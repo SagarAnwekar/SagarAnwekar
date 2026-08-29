@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Business%20Intelligence-%230d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
-  <img src="https://img.shields.io/badge/Analytics%20Engineering-%230d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Applied%20AI-%230d1117?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="./assets/banner.svg" alt="Business Intelligence to Applied AI" />
 </p>
 
 <h1 align="center">Sagar Anwekar</h1>
@@ -53,7 +51,7 @@ I focus on turning business questions into measurable, documented, testable syst
 
 ## Current focus
 
-- production-quality BI and analytics projects
+- production-minded BI and analytics systems
 - Python + SQL engineering depth
 - agentic AI patterns for business workflows
 - data quality, governance, and evaluation
